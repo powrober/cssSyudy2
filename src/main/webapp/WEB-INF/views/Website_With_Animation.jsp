@@ -12,6 +12,15 @@
 	<div class="hero">
 		<div class="highway"></div>
 		<div class="city"></div>
+		
+		<div class="car">
+			<img src="/css/resources/images/0202/car.png">
+		</div>
+		<div class="wheel">
+			<img src="/css/resources/images/0202/wheel.png" class="back-wheel">
+			<img src="/css/resources/images/0202/wheel.png" class="front-wheel">
+		</div>
+			
 	</div>
 
 </body>
