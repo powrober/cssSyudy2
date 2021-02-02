@@ -8,6 +8,11 @@
 <link rel="stylesheet" href="/css/resources/css/0202.css">
 </head>
 <body>
-Website_With_Animation
+	
+	<div class="hero">
+		<div class="highway"></div>
+		<div class="city"></div>
+	</div>
+
 </body>
 </html>
