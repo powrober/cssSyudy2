@@ -21,8 +21,10 @@
 <jsp:forward page="Hover_Effect.jsp"></jsp:forward> --%>
 <%-- // 2.1 연습 7
 <jsp:forward page="Music_Website.jsp"></jsp:forward> --%>
-// 2.2 연습 8
-<jsp:forward page="Website_With_Animation.jsp"></jsp:forward>
+<%-- // 2.2 연습 8
+<jsp:forward page="Website_With_Animation.jsp"></jsp:forward> --%>
+// 2.3 연습 9
+<jsp:forward page="Website_Animation_Effect.jsp"></jsp:forward>
 
 </body>
 </html>
