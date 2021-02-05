@@ -15,7 +15,7 @@
 <jsp:forward page="Contact_Form.jsp"></jsp:forward> --%>
 <%-- // 01.27 연습 4
 <jsp:forward page="Color_Hover_Effect.jsp"></jsp:forward> --%>
-<%-- // 01.28 연습 5
+ <%-- // 01.28 연습 5
 <jsp:forward page="Neon_Effect.jsp"></jsp:forward> --%>
 <%-- // 01.31 연습 6
 <jsp:forward page="Hover_Effect.jsp"></jsp:forward> --%>
@@ -23,8 +23,10 @@
 <jsp:forward page="Music_Website.jsp"></jsp:forward> --%>
 <%-- // 2.2 연습 8
 <jsp:forward page="Website_With_Animation.jsp"></jsp:forward> --%>
-// 2.3 연습 9
-<jsp:forward page="Website_Animation_Effect.jsp"></jsp:forward>
+<%-- // 2.3 연습 9
+<jsp:forward page="Website_Animation_Effect.jsp"></jsp:forward> --%>
+// 2.5 연습 10
+<jsp:forward page="Neon_Light_Effect.jsp"></jsp:forward>
 
 </body>
 </html>
