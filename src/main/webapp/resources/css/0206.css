@@ -13,3 +13,9 @@ body
 	overflow: hidden;
 	background-repeat: no-repeat;
 }
+
+#canvas
+{
+	width: 2000px;
+	height: 1000px;
+}

@@ -9,5 +9,6 @@
 </head>
 <body>
 	<canvas id="canvas"></canvas>
+	<script src="/css/resources/js/0206.js"></script>
 </body>
 </html>
