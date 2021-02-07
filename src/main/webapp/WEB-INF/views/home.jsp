@@ -27,8 +27,10 @@
 <jsp:forward page="Website_Animation_Effect.jsp"></jsp:forward> --%>
 <%-- // 2.5 연습 10
 <jsp:forward page="Neon_Light_Effect.jsp"></jsp:forward> --%>
-// 2.6 연습 11
-<jsp:forward page="Neon_Light_Effect2.jsp"></jsp:forward>
+<%-- // 2.6 연습 11
+<jsp:forward page="Neon_Light_Effect2.jsp"></jsp:forward> --%>
+// 2.7 연습 12
+<jsp:forward page="Parallax_Effect.jsp"></jsp:forward>
 
 
 </body>
