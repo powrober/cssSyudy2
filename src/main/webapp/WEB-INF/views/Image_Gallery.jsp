@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Image_Gallery</title>
+<link rel="stylesheet" href="/css/resources/css/0208.css">
 </head>
 <body>
 
