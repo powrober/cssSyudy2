@@ -15,8 +15,8 @@
 <jsp:forward page="Contact_Form.jsp"></jsp:forward> --%>
 <%-- // 01.27 연습 4
 <jsp:forward page="Color_Hover_Effect.jsp"></jsp:forward> --%>
- <%-- // 01.28 연습 5
-<jsp:forward page="Neon_Effect.jsp"></jsp:forward> --%>
+<%--  // 01.28 연습 5
+<jsp:forward page="Neon_Effect.jsp"></jsp:forward> --%> 
 <%-- // 01.31 연습 6
 <jsp:forward page="Hover_Effect.jsp"></jsp:forward> --%>
 <%-- // 2.1 연습 7
@@ -29,10 +29,12 @@
 <jsp:forward page="Neon_Light_Effect.jsp"></jsp:forward> --%>
 <%-- // 2.6 연습 11
 <jsp:forward page="Neon_Light_Effect2.jsp"></jsp:forward> --%>
-<%-- // 2.7 연습 12
-<jsp:forward page="Parallax_Effect.jsp"></jsp:forward> --%>
-// 2.8 연습 13
-<jsp:forward page="Image_Gallery.jsp"></jsp:forward>
+ <%-- // 2.7 연습 12
+<jsp:forward page="Parallax_Effect.jsp"></jsp:forward>  --%>
+ <%-- // 2.8 연습 13
+<jsp:forward page="Image_Gallery.jsp"></jsp:forward> --%>
+ // 2.10 연습 14
+<jsp:forward page="Testimonial Slider On Website.jsp"></jsp:forward>
 
 
 </body>
