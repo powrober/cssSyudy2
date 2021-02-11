@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Animated_Text</title>
+<link rel="stylesheet" href="/css/resources/css/0211.css">
 </head>
 <body>
 
