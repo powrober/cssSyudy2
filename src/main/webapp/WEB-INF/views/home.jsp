@@ -33,8 +33,10 @@
 <jsp:forward page="Parallax_Effect.jsp"></jsp:forward>  --%>
  <%-- // 2.8 연습 13
 <jsp:forward page="Image_Gallery.jsp"></jsp:forward> --%>
- // 2.10 연습 14
-<jsp:forward page="Testimonial Slider On Website.jsp"></jsp:forward>
+ <%-- // 2.10 연습 14
+<jsp:forward page="Testimonial Slider On Website.jsp"></jsp:forward> --%>
+ // 2.11 연습 15
+<jsp:forward page="Animated_Text.jsp"></jsp:forward>
 
 
 </body>
