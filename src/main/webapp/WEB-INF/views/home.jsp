@@ -35,8 +35,10 @@
 <jsp:forward page="Image_Gallery.jsp"></jsp:forward> --%>
  <%-- // 2.10 연습 14
 <jsp:forward page="Testimonial Slider On Website.jsp"></jsp:forward> --%>
- // 2.11 연습 15
-<jsp:forward page="Animated_Text.jsp"></jsp:forward>
+<%--  // 2.11 연습 15
+<jsp:forward page="Animated_Text.jsp"></jsp:forward> --%>
+ // 2.13 연습 16
+<jsp:forward page="Coming_Soon_Page.jsp"></jsp:forward>
 
 
 </body>
