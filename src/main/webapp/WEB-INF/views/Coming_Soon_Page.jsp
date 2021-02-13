@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Coming_Soon_Page</title>
+
 </head>
 <body>
 
