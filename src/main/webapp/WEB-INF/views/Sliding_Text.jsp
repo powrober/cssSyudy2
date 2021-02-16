@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Sliding_Text</title>
+<link rel="stylesheet" href="/css/resources/css/0216.css">
 </head>
 <body>
 

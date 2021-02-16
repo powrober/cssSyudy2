@@ -1,1 +1,7 @@
 @charset "UTF-8";
+
+*
+{
+	marging: 0;
+	padding: 0;
+}
