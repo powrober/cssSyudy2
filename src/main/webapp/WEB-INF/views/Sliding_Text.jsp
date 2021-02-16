@@ -34,7 +34,8 @@
 				Making Website is now one fo the easiest thing in the world. You
 				just need to learn HTML, CSS, <br>JavaScript and you are good
 				to go.
-				<button type="button">Reister Now To Know More</button>
+			</p>
+			<button type="button">Reister Now To Know More</button>
 		</div>
 
 	</div>

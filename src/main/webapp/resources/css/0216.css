@@ -83,6 +83,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	overflow: hidden;
 }
 
 .content p
@@ -123,7 +124,8 @@ button:hover
 
 @keyframes slider
 {
-	0%{ margin-top: -200px; }
+	0%{ margin-top: -400px; }
+	5%{ margin-top: -200px; }
 	30%{ margin-top: -200px; }
 	35%{ margin-top: 0px; }
 	65%{ margin-top: 0px; }
