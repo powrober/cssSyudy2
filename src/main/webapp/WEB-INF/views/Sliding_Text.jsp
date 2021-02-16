@@ -22,15 +22,19 @@
 		</div>
 
 		<div class="content">
-			<div class="title">Make Website</div>
-			<div class="slider">
-				<div>NOW</div>
-				<div>TODAY</div>
-				<div>FREE</div>
+			<div class="title">
+				Make Website
+				<div class="slider">
+					<div>NOW</div>
+					<div>TODAY</div>
+					<div>FREE</div>
+				</div>
 			</div>
-			<p>Making Website is now one fo the easiest thing in the world.
-				You just need to learn HTML, CSS, <br>JavaScript and you are good to go.
-			<button type="button">Reister Now To Know More</button>
+			<p>
+				Making Website is now one fo the easiest thing in the world. You
+				just need to learn HTML, CSS, <br>JavaScript and you are good
+				to go.
+				<button type="button">Reister Now To Know More</button>
 		</div>
 
 	</div>
