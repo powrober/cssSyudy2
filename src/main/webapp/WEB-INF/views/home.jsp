@@ -40,7 +40,9 @@
 <%--  // 2.13 연습 16
 <jsp:forward page="Coming_Soon_Page.jsp"></jsp:forward>
  --%>
-// 2.16 연습 17
-<jsp:forward page="Sliding_Text.jsp"></jsp:forward>
+<%-- // 2.16 연습 17
+<jsp:forward page="Sliding_Text.jsp"></jsp:forward> --%>
+// 2.18 연습 18
+<jsp:forward page="Animated_Website.jsp"></jsp:forward>
 </body>
 </html>
