@@ -12,7 +12,7 @@
 	<div class="hero">
 		<div class="left-col"></div>
 			<div class="product-img">
-			
+				<img src="/css/resources/images/0218/po1.jpg" class="headphone">
 			</div>
 		<div class="right-col"></div>
 	</div>
