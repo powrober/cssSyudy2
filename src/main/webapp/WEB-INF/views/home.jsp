@@ -42,7 +42,9 @@
  --%>
 <%-- // 2.16 연습 17
 <jsp:forward page="Sliding_Text.jsp"></jsp:forward> --%>
-// 2.18 연습 18
-<jsp:forward page="Animated_Website.jsp"></jsp:forward>
+<%-- // 2.18 연습 18
+<jsp:forward page="Animated_Website.jsp"></jsp:forward> --%>
+// 2.19 연습 19
+<jsp:forward page="TextPage.jsp"></jsp:forward>
 </body>
 </html>
